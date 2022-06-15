@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2019 by Sukchan Lee <acetcom@gmail.com>
- *
+ *Learning Version for LXC
  * This file is part of Open5GS.
  *
  * This program is free software: you can redistribute it and/or modify
